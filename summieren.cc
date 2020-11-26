@@ -49,12 +49,4 @@ ofstream fout;
 fout.open("datensumme.txt");
 fout << sum <<"\n";
 fout.close();
-
-ofstream fout("datensumme.txt")
-fout.open("datensumme.txt")
-fout.close();
 }
-
-
-
-tu push pull wala kelas?
